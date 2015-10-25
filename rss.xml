@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kmore]]></title>
+        <description><![CDATA[Kmore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 20:45:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Numero Uno]]></title>
+            <description><![CDATA[<article><h1>Numero Uno</h1><p>First Grid post, no clue of what it will even look like or how much i'll be able to do with it later...but it is and forever will be, the first.</p></article>]]></description>
+            <link>undefinednumero-uno/index.html</link>
+            <guid isPermaLink="false">079a4022-1c69-40f1-9c3f-9ab1c906dcb6</guid>
+            <pubDate>Sun, 25 Oct 2015 20:44:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
